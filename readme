@@ -2,7 +2,7 @@ This project implements a convolutional neural network (CNN) to classify images 
 
 Key features:
 
-Dataset processing with TensorFlow utilities.
-A CNN architecture designed for efficient feature extraction and classification.
-Training and validation accuracy tracking using Matplotlib.
-Real-time predictions on custom cat and dog images.
+1. Dataset processing with TensorFlow utilities.
+2. A CNN architecture designed for efficient feature extraction and classification.
+3. Training and validation accuracy tracking using Matplotlib.
+4. Real-time predictions on custom cat and dog images.
