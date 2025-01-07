@@ -1,4 +1,4 @@
-This project implements a convolutional neural network (CNN) to classify images of cats and dogs using TensorFlow and Keras. The dataset is sourced from Kaggle and includes pre-processing steps like normalization and image resizing. The model is trained and validated using separate datasets and achieves binary classification through a deep learning architecture with Conv2D, MaxPooling2D, and Dense layers.
+The project showcases implementation of a convolutional neural network (CNN) to classify images of cats and dogs using TensorFlow and Keras. The dataset is sourced from Kaggle and includes pre-processing steps like normalization and image resizing. The model is trained and validated using separate datasets and achieves binary classification through a deep learning architecture with Conv2D, MaxPooling2D, and Dense layers.
 
 Key features:
 
